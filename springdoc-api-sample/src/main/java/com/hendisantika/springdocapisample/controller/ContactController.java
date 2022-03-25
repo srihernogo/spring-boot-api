@@ -12,16 +12,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * Created by IntelliJ IDEA.
- * Project : springdoc-api-sample
- * User: powercommerce
- * Email: hendisantika@gmail.com
- * Telegram : @hendisantika34
- * Date: 25/03/22
- * Time: 06.42
- * To change this template use File | Settings | File Templates.
- */
 @RestController
 @Tag(name = "Contact", description = "Endpoints for Contact")
 public class ContactController {
